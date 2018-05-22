@@ -6,8 +6,8 @@ admin-simon.top/mybatis/mybatis-3-config.dtd
 
 [mybatis-3-config.dtd Download](admin-simon.top/mybatis/mybatis-3-config.dtd)
 
-···xml
+```xml
 admin-simon.top/mybatis/mybatis-3-mapper.dtd
-···
+```
 
 [mybatis-3-mapper.dtd Download](admin-simon.top/mybatis/mybatis-3-mapper.dtd)
