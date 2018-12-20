@@ -2,14 +2,14 @@
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE configuration  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"  "https://admin-simon.top/mybatis/mybatis-3-config.dtd">
+<!DOCTYPE configuration  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"  "https://aliatry.com/mybatis/mybatis-3-config.dtd">
 ```
 
-[mybatis-3-config.dtd Download](admin-simon.top/mybatis/mybatis-3-config.dtd)
+[mybatis-3-config.dtd Download](aliatry.com/mybatis/mybatis-3-config.dtd)
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "https://admin-simon.top/mybatis/mybatis-3-mapper.dtd">
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "https://aliatry.com/mybatis/mybatis-3-mapper.dtd">
 ```
 
-[mybatis-3-mapper.dtd Download](admin-simon.top/mybatis/mybatis-3-mapper.dtd)
+[mybatis-3-mapper.dtd Download](aliatry.com/mybatis/mybatis-3-mapper.dtd)
